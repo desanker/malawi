@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/305852881cf5b2938d541d86d53fcd0941079dcd/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/1cdeb6ff3c117e21508a29287a036a50aed29a05/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/305852881cf5b2938d541d86d53fcd0941079dcd/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/1cdeb6ff3c117e21508a29287a036a50aed29a05/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/305852881cf5b2938d541d86d53fcd0941079dcd/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/1cdeb6ff3c117e21508a29287a036a50aed29a05/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/305852881cf5b2938d541d86d53fcd0941079dcd/))
+([permalink](https://desanker.github.io/malawi/v/1cdeb6ff3c117e21508a29287a036a50aed29a05/))
 was automatically generated
-from [desanker/malawi@3058528](https://github.com/desanker/malawi/tree/305852881cf5b2938d541d86d53fcd0941079dcd)
+from [desanker/malawi@1cdeb6f](https://github.com/desanker/malawi/tree/1cdeb6ff3c117e21508a29287a036a50aed29a05)
 on April 23, 2020.
 </em></small>
 
