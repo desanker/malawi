@@ -1,7 +1,6 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Paul V. Desanker
 bibliography:
 - content/manual-references.json
 date-meta: '2020-04-23'
@@ -15,13 +14,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Malawi Open NAP" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Malawi Open NAP" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Malawi Open NAP" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Malawi Open NAP" />
 
   <meta name="dc.date" content="2020-04-23" />
 
@@ -39,21 +38,13 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Paul V. Desanker" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="UNFCCC Secretariat" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
+  <meta name="twitter:creator" content="@xx" />
 
   <link rel="canonical" href="https://desanker.github.io/malawi/" />
 
@@ -67,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/c173d99668061e6e3ef44591937faac89ce357ad/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/305852881cf5b2938d541d86d53fcd0941079dcd/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/c173d99668061e6e3ef44591937faac89ce357ad/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/305852881cf5b2938d541d86d53fcd0941079dcd/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/c173d99668061e6e3ef44591937faac89ce357ad/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/305852881cf5b2938d541d86d53fcd0941079dcd/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +76,15 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- Open NAP
+- UNFCCC
+- Adaptation
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Malawi Open NAP
 ...
 
 
@@ -103,9 +94,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/c173d99668061e6e3ef44591937faac89ce357ad/))
+([permalink](https://desanker.github.io/malawi/v/305852881cf5b2938d541d86d53fcd0941079dcd/))
 was automatically generated
-from [desanker/malawi@c173d99](https://github.com/desanker/malawi/tree/c173d99668061e6e3ef44591937faac89ce357ad)
+from [desanker/malawi@3058528](https://github.com/desanker/malawi/tree/305852881cf5b2938d541d86d53fcd0941079dcd)
 on April 23, 2020.
 </em></small>
 
@@ -113,25 +104,15 @@ on April 23, 2020.
 
 
 
-+ **John Doe**<br>
++ **Paul V. Desanker**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [desanker](https://github.com/desanker)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [xx](https://twitter.com/xx)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     UNFCCC Secretariat
   </small>
 
 
