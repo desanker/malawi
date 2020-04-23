@@ -1,26 +1,17 @@
 ---
-title: "Manuscript Title"
+title: Malawi Open NAP
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - Open NAP
+  - UNFCCC
+  - Adaptation
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: desanker
+    name: Paul V. Desanker
+    initials: PD
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: xx
+    email: PDesanker@unfccc.int
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - UNFCCC Secretariat
+    
