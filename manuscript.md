@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/f4e97a251312c7ddba708b1e4b648dc1159968c0/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/66c1aacca868a39a5ce18a3801384bd3722bb297/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/f4e97a251312c7ddba708b1e4b648dc1159968c0/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/66c1aacca868a39a5ce18a3801384bd3722bb297/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/f4e97a251312c7ddba708b1e4b648dc1159968c0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/66c1aacca868a39a5ce18a3801384bd3722bb297/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/f4e97a251312c7ddba708b1e4b648dc1159968c0/))
+([permalink](https://desanker.github.io/malawi/v/66c1aacca868a39a5ce18a3801384bd3722bb297/))
 was automatically generated
-from [desanker/malawi@f4e97a2](https://github.com/desanker/malawi/tree/f4e97a251312c7ddba708b1e4b648dc1159968c0)
+from [desanker/malawi@66c1aac](https://github.com/desanker/malawi/tree/66c1aacca868a39a5ce18a3801384bd3722bb297)
 on April 25, 2020.
 </em></small>
 
@@ -238,6 +238,8 @@ Year 5
 
 ## References 
 
+
+
 ## Annexes
 
 ### Database to support adaptation monitoring and planning
@@ -257,10 +259,6 @@ Year 5
 |Gender (and vulnerable groups)	| Promote gender mainstreaming in policies, programmes and projects; Support capacity building programmes for vulnerable groups|
 |Infrastructure | Construct infrastructure for flood control, transport etc; Develop and implement climate related building codes/standards; Revise existing building standards in line with climate change |
 |Industry |Promote research in industrial technologies| 
-
-
-
-
 
 
 ## References {.page_break_before}
