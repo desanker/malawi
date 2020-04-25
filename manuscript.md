@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/96c99d28f36e97d110dea827e57b86398bf1f686/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/f4e97a251312c7ddba708b1e4b648dc1159968c0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/96c99d28f36e97d110dea827e57b86398bf1f686/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/f4e97a251312c7ddba708b1e4b648dc1159968c0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/96c99d28f36e97d110dea827e57b86398bf1f686/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/f4e97a251312c7ddba708b1e4b648dc1159968c0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/96c99d28f36e97d110dea827e57b86398bf1f686/))
+([permalink](https://desanker.github.io/malawi/v/f4e97a251312c7ddba708b1e4b648dc1159968c0/))
 was automatically generated
-from [desanker/malawi@96c99d2](https://github.com/desanker/malawi/tree/96c99d28f36e97d110dea827e57b86398bf1f686)
+from [desanker/malawi@f4e97a2](https://github.com/desanker/malawi/tree/f4e97a251312c7ddba708b1e4b648dc1159968c0)
 on April 25, 2020.
 </em></small>
 
@@ -257,6 +257,9 @@ Year 5
 |Gender (and vulnerable groups)	| Promote gender mainstreaming in policies, programmes and projects; Support capacity building programmes for vulnerable groups|
 |Infrastructure | Construct infrastructure for flood control, transport etc; Develop and implement climate related building codes/standards; Revise existing building standards in line with climate change |
 |Industry |Promote research in industrial technologies| 
+
+
+
 
 
 
