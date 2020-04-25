@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/5ecdbf1d4472f33efadba3e56fc4631174025f98/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/96c99d28f36e97d110dea827e57b86398bf1f686/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/5ecdbf1d4472f33efadba3e56fc4631174025f98/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/96c99d28f36e97d110dea827e57b86398bf1f686/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/5ecdbf1d4472f33efadba3e56fc4631174025f98/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/96c99d28f36e97d110dea827e57b86398bf1f686/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/5ecdbf1d4472f33efadba3e56fc4631174025f98/))
+([permalink](https://desanker.github.io/malawi/v/96c99d28f36e97d110dea827e57b86398bf1f686/))
 was automatically generated
-from [desanker/malawi@5ecdbf1](https://github.com/desanker/malawi/tree/5ecdbf1d4472f33efadba3e56fc4631174025f98)
+from [desanker/malawi@96c99d2](https://github.com/desanker/malawi/tree/96c99d28f36e97d110dea827e57b86398bf1f686)
 on April 25, 2020.
 </em></small>
 
@@ -163,37 +163,38 @@ The latest technical guidance from the NAP Technical Working Group is followed, 
 
 #### Observations since 1960
 
-•	Temperature increases of approximately 0.9°C, with the most rapid increase in summer months (Dec–Feb), between 1960 and 2006.
-•	Increase in the number of days (+30 days) and nights (+41 days) considered “hot.”
-•	Highly variable year-to-year rainfall totals with no statistically significant trends.
-•	Increased length of dry spells during the rainy season.
-•	Increased intensity, frequency and magnitude of floods and droughts.
+*	Temperature increases of approximately 0.9°C, with the most rapid increase in summer months (Dec–Feb), between 1960 and 2006.
+*	Increase in the number of days (+30 days) and nights (+41 days) considered “hot.”
+*	Highly variable year-to-year rainfall totals with no statistically significant trends.
+*	Increased length of dry spells during the rainy season.
+*	Increased intensity, frequency and magnitude of floods and droughts.
 
 #### Projected climate for the next 20, 50, 100 years
 
-•	Higher average temperatures of 1–3°C by 2050, with largest increases in early summer months.
-•	Increase in the number of days and nights considered “hot” by 2060.
-•	Overall increases or decreases in rainfall difficult to project.
-•	Later onset/earlier cessation of rainy season.
-•	Increase in average monthly rainfall from Dec–Jan and a decrease from Feb–April.
-•	Increases in the proportion of rainfall during extreme events of up to 19 percent annually by 2090.
+*	Higher average temperatures of 1–3°C by 2050, with largest increases in early summer months.
+*	Increase in the number of days and nights considered “hot” by 2060.
+*	Overall increases or decreases in rainfall difficult to project.
+*	Later onset/earlier cessation of rainy season.
+*	Increase in average monthly rainfall from Dec–Jan and a decrease from Feb–April.
+*	Increases in the proportion of rainfall during extreme events of up to 19 percent annually by 2090.
+
 Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact Sheet. 
 
 ### Key climate hazards ###
 
-•	Prolonged Drought/dry spells
-•	Global and regional drought spells
-•	Torrential rainfall/Change (increase) in frequency and intensity of heavy rainfall events
-•	Local storm events
-•	Global and regional storm events
-•	Lightning
-•	Hot spells/temperature extremes
-•	Shifting (rainfall/growing) seasons
-•	Increase in temperatures
-•	Non-normal annual weather
-•	Pests and diseases outbreaks associated with climate events
-•	Disruption of national, regional and global food supply chains
-•	Wildfire
+*	Prolonged Drought/dry spells
+*	Global and regional drought spells
+*	Torrential rainfall/Change (increase) in frequency and intensity of heavy rainfall events
+*	Local storm events
+*	Global and regional storm events
+*	Lightning
+*	Hot spells/temperature extremes
+*	Shifting (rainfall/growing) seasons
+*	Increase in temperatures
+*	Non-normal annual weather
+*	Pests and diseases outbreaks associated with climate events
+*	Disruption of national, regional and global food supply chains
+*	Wildfire
 
 ### Key Risks
 
@@ -202,26 +203,28 @@ Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact She
 Goals, objectives and expected outcomes of adaptation
 
 Taking a medium- to long-term approach and avoiding maladaptation
-* National climate change adaptation programme: umbrella programme
-* Projects and programmes to address key risks for the country
 
-** Climate Resilient Integrated Watershed Management (Total: US$ 84 million, PPCR/SPCR)
-** Building Climate Change Resilience in Selected Agricultural Value Chains in Malawi (Total: US$ 26 million, PPCR/SPCR)
-** Sustainable Fisheries Sector and Fisheries Value Chain in Malawi through Improved Climate Resilient Lake Ecosystem Conservation and Management (Total: US$ 18.2 million, PPCR/SPCR)
-** Strengthening Climate Resilience of Smallholder Farmers in Malawi (Total: US$ 13.5 million, PPCR/SPCR- FAO)
-** Operationalising Malawi’s Climate Services Centre (Total: US$ 17.3 million, PPCR/SPCR)
-** Forest landscape restoration programme
-** Lake Malawi Ecosystem
-** Lake Chilwa Ecosystem and Value Chains
-** National physical development planning under climate change
-** Building a resilient national food security
+1. National climate change adaptation programme: umbrella programme
 
-* Essential cross-cutting projects/programmes
-** Creating an effective adaptation process and system (mainstreaming/integration, policies, governance, etc.)
-** Climate information services and early warnings systems, systematic observations
-** Active monitoring of key systems: crop production, water resources, ecosystems, etc
-** M&E system – individual projects and in aggregate for the country
-** Capacity development for implementation of adaptation and support to the process including data and information management, etc
+2. Projects and programmes to address key risks for the country
+
+* Climate Resilient Integrated Watershed Management (Total: US$ 84 million, PPCR/SPCR)
+* Building Climate Change Resilience in Selected Agricultural Value Chains in Malawi (Total: US$ 26 million, PPCR/SPCR)
+* Sustainable Fisheries Sector and Fisheries Value Chain in Malawi through Improved Climate Resilient Lake Ecosystem Conservation and Management (Total: US$ 18.2 million, PPCR/SPCR)
+* Strengthening Climate Resilience of Smallholder Farmers in Malawi (Total: US$ 13.5 million, PPCR/SPCR- FAO)
+* Operationalising Malawi’s Climate Services Centre (Total: US$ 17.3 million, PPCR/SPCR)
+* Forest landscape restoration programme
+* Lake Malawi Ecosystem
+* Lake Chilwa Ecosystem and Value Chains
+* National physical development planning under climate change
+* Building a resilient national food security
+
+3. Essential cross-cutting projects/programmes
+ Creating an effective adaptation process and system (mainstreaming/integration, policies, governance, etc.)
+* Climate information services and early warnings systems, systematic observations
+* Active monitoring of key systems: crop production, water resources, ecosystems, etc
+* M&E system – individual projects and in aggregate for the country
+* Capacity development for implementation of adaptation and support to the process including data and information management, etc
 
 ## Implementation Strategy
 
@@ -243,7 +246,7 @@ Year 5
 
 ### INDC Adaptation priorities from INDC (2015)
 
-| Sectors | Intended policy-based actions|
+| **Sectors** | **Intended policy-based actions** |
 | --- | --- |
 | Agriculture | Increase irrigation at smallholder level; Increase land under irrigation through Greenbelt initiative from 20,000 to 40,0000 ha; Expanded programme of Greenbelt initiative from 40,000 ha to 100000 ha by 2030; Build adaptation capacity in climate resilient agronomic practices for smallholder farmers; Promote on-farm water conservation technologies; Support an expanded programme of constructing multipurpose dams for irrigation and aquaculture; Develop financial mechanisms to support crop insurance targeting smallholder farmers; Promote the growing of drought tolerant crop varieties; Implement conservation agriculture and agroforestry practices; Promote improved land use practices|
 |Water | Implement integrated catchment conservation and management programme; Promote water harvesting technologies at all levels; support an expanded programme of constructing multipurpose dams to enhance water storage; Support the revision of water related policies and strategies (inc. water SWAP); Develop and enhance climate information and early warning systems|
