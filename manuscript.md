@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/1bbb41cacab0d79712b1f930edce10a109cbe7f7/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/5ecdbf1d4472f33efadba3e56fc4631174025f98/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/1bbb41cacab0d79712b1f930edce10a109cbe7f7/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/5ecdbf1d4472f33efadba3e56fc4631174025f98/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/1bbb41cacab0d79712b1f930edce10a109cbe7f7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/5ecdbf1d4472f33efadba3e56fc4631174025f98/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/1bbb41cacab0d79712b1f930edce10a109cbe7f7/))
+([permalink](https://desanker.github.io/malawi/v/5ecdbf1d4472f33efadba3e56fc4631174025f98/))
 was automatically generated
-from [desanker/malawi@1bbb41c](https://github.com/desanker/malawi/tree/1bbb41cacab0d79712b1f930edce10a109cbe7f7)
+from [desanker/malawi@5ecdbf1](https://github.com/desanker/malawi/tree/5ecdbf1d4472f33efadba3e56fc4631174025f98)
 on April 25, 2020.
 </em></small>
 
@@ -122,9 +122,9 @@ on April 25, 2020.
 
 
 
-# Malawi National Adaptation Plan #
+# Malawi National Adaptation Plan
 
-## Introduction##
+## Introduction
 
 The NAP is the main vehicle for adaptation planning for the country, and encompasses activities at all relevant scales and levels, from the regional (multi-country level) to the national, sectoral, sub-national and local levels, including for specific municipalities. All recent adaptation strategies and plans will thus be included in the NAP as a master plan for adaptation, indicating what is ongoing and what remains to be addressed. [S/T reporting]
 
@@ -157,11 +157,11 @@ One approach to make progress on the NAP would be to build on the PPCR/SPCR that
 The formulation of the NAP follows the guiding principles and technical guidelines as outlined in UNFCCC COP decision 5/CP.17. It embraces the country-driven, country-owned and iterative approach.
 The latest technical guidance from the NAP Technical Working Group is followed, based on the NAP-SDG iFrame toolkit.
 
-## Key Risks and Vulnerabilities ##
+## Key Risks and Vulnerabilities
 
-### Baseline period 1961 to 1990 and trends to the present ###
+### Baseline period 1961 to 1990 and trends to the present
 
-#### Observations since 1960 ####
+#### Observations since 1960
 
 •	Temperature increases of approximately 0.9°C, with the most rapid increase in summer months (Dec–Feb), between 1960 and 2006.
 •	Increase in the number of days (+30 days) and nights (+41 days) considered “hot.”
@@ -169,7 +169,7 @@ The latest technical guidance from the NAP Technical Working Group is followed, 
 •	Increased length of dry spells during the rainy season.
 •	Increased intensity, frequency and magnitude of floods and droughts.
 
-#### Projected climate for the next 20, 50, 100 years ####
+#### Projected climate for the next 20, 50, 100 years
 
 •	Higher average temperatures of 1–3°C by 2050, with largest increases in early summer months.
 •	Increase in the number of days and nights considered “hot” by 2060.
@@ -195,9 +195,9 @@ Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact She
 •	Disruption of national, regional and global food supply chains
 •	Wildfire
 
-### Key Risks ###
+### Key Risks
 
-## Priority Adaptations ##
+## Priority Adaptations
 
 Goals, objectives and expected outcomes of adaptation
 
@@ -223,7 +223,7 @@ Taking a medium- to long-term approach and avoiding maladaptation
 ** M&E system – individual projects and in aggregate for the country
 ** Capacity development for implementation of adaptation and support to the process including data and information management, etc
 
-## Implementation Strategy ##
+## Implementation Strategy
 
 Alignment with the GCF country programme
 The priorities in the NAP will form the 5-year country programme for engagement with the GCF as follows:
@@ -233,15 +233,15 @@ Year 3
 Year 4
 Year 5
 
-## References ## 
+## References 
 
-## Annexes ##
+## Annexes
 
-### Database to support adaptation monitoring and planning ###
+### Database to support adaptation monitoring and planning
 
-### Database of projects under the FM entities ###
+### Database of projects under the FM entities
 
-### INDC Adaptation priorities from INDC (2015) ###
+### INDC Adaptation priorities from INDC (2015)
 
 | Sectors | Intended policy-based actions|
 | --- | --- |
@@ -249,8 +249,7 @@ Year 5
 |Water | Implement integrated catchment conservation and management programme; Promote water harvesting technologies at all levels; support an expanded programme of constructing multipurpose dams to enhance water storage; Support the revision of water related policies and strategies (inc. water SWAP); Develop and enhance climate information and early warning systems|
 |Human health | Build capacity to diagnose, prevent and control climate-sensitive diseases such as malaria, diarrhea and malnutrition; Enhance public awareness about water, sanitation and hygiene practices and enhance health surveillance; Support expanded programme for preventing and controlling climate-sensitive diseases; Construct more health centres in order to improve access to health facilities within a walking distance of 8 km; Support the establishment of centre of excellence for research and disease control targeting climate-sensitive diseases|
 |Energy | Promote use of biomass briquettes as substitute for firewood and charcoal; Promote an energy mix that moves people away from use of biomass; Support an expanded programme of briquette production and use; Construct storage dams for hydropower generation; Promote solar PV and use of the energy efficient bulbs; Promote use of bio-fuels for lighting and cooking replacing fossil-based fuel|
-|Forestry | Support research in drought tolerant and fast-growing tree species; Expand afforestation and forest regeneration programmes; Promote growing of drought to tolerant and fast-growing tree species
-Wildlife; Provide watering points at strategic locations of national park/game reserve; Implement diseases control programmes; Support capacity building in a wildlife institution to lead in adaptation initiatives e.g. translocation and culling|
+|Forestry | Support research in drought tolerant and fast-growing tree species; Expand afforestation and forest regeneration programmes; Promote growing of drought to tolerant and fast-growing tree species; Wildlife; Provide watering points at strategic locations of national park/game reserve; Implement diseases control programmes; Support capacity building in a wildlife institution to lead in adaptation initiatives e.g. translocation and culling|
 |Fisheries | Capacity building in aquaculture and cage culture fish farming practices; Adopt ecosystem services approach in the management of fisheries resources; Promote aquaculture and cage culture fish farming practices; Protect fish spawning/breeding sites; Maintain fingerlings for stocking lakes and rivers after severe drought episodes| 
 |Gender (and vulnerable groups)	| Promote gender mainstreaming in policies, programmes and projects; Support capacity building programmes for vulnerable groups|
 |Infrastructure | Construct infrastructure for flood control, transport etc; Develop and implement climate related building codes/standards; Revise existing building standards in line with climate change |
