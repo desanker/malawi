@@ -7,11 +7,12 @@
       "Adaptation"
     ],
     "lang": "en-US",
-    "date-meta": "2020-04-26",
+    "date-meta": "2020-04-27",
     "author-meta": [
-      "Paul V. Desanker"
+      "Malawi NAP Team",
+      "LDC Expert Group"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Malawi Open NAP\" />\n<meta name=\"citation_title\" content=\"Malawi Open NAP\" />\n<meta property=\"og:title\" content=\"Malawi Open NAP\" />\n<meta property=\"twitter:title\" content=\"Malawi Open NAP\" />\n<meta name=\"dc.date\" content=\"2020-04-26\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-26\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Paul V. Desanker\" />\n<meta name=\"citation_author_institution\" content=\"UNFCCC Secretariat\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@xx\" />\n<link rel=\"canonical\" href=\"https://desanker.github.io/malawi/\" />\n<meta property=\"og:url\" content=\"https://desanker.github.io/malawi/\" />\n<meta property=\"twitter:url\" content=\"https://desanker.github.io/malawi/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://desanker.github.io/malawi/\" />\n<meta name=\"citation_pdf_url\" content=\"https://desanker.github.io/malawi/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://desanker.github.io/malawi/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Malawi Open NAP\" />\n<meta name=\"citation_title\" content=\"Malawi Open NAP\" />\n<meta property=\"og:title\" content=\"Malawi Open NAP\" />\n<meta property=\"twitter:title\" content=\"Malawi Open NAP\" />\n<meta name=\"dc.date\" content=\"2020-04-27\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-27\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Malawi NAP Team\" />\n<meta name=\"citation_author_institution\" content=\"Government of Malawi\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@xx\" />\n<meta name=\"citation_author\" content=\"LDC Expert Group\" />\n<meta name=\"citation_author_institution\" content=\"UNFCCC\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@xx\" />\n<link rel=\"canonical\" href=\"https://desanker.github.io/malawi/\" />\n<meta property=\"og:url\" content=\"https://desanker.github.io/malawi/\" />\n<meta property=\"twitter:url\" content=\"https://desanker.github.io/malawi/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://desanker.github.io/malawi/\" />\n<meta name=\"citation_pdf_url\" content=\"https://desanker.github.io/malawi/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://desanker.github.io/malawi/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -21,27 +22,45 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "April 26, 2020",
+    "date": "April 27, 2020",
     "authors": [
       {
         "github": "desanker",
-        "name": "Paul V. Desanker",
-        "initials": "PD",
+        "name": "Malawi NAP Team",
+        "initials": "MW",
         "orcid": "XXXX-XXXX-XXXX-XXXX",
         "twitter": "xx",
-        "email": "PDesanker@unfccc.int",
+        "email": "leghelp@unfccc.int",
         "affiliations": [
-          "UNFCCC Secretariat"
+          "Government of Malawi"
         ],
         "affiliation_numbers": [
           1
+        ]
+      },
+      {
+        "github": "desanker",
+        "name": "LDC Expert Group",
+        "initials": "LEG",
+        "orcid": "XXXX-XXXX-XXXX-XXXX",
+        "twitter": "xx",
+        "email": "leghelp@unfccc.int",
+        "affiliations": [
+          "UNFCCC"
+        ],
+        "affiliation_numbers": [
+          2
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "UNFCCC Secretariat",
+        "affiliation": "Government of Malawi",
         "affiliation_number": 1
+      },
+      {
+        "affiliation": "UNFCCC",
+        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -49,15 +68,15 @@
       "repo_slug": "desanker/malawi",
       "repo_owner": "desanker",
       "repo_name": "malawi",
-      "commit": "88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3",
-      "triggering_commit": "88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3",
-      "build_url": "https://github.com/desanker/malawi/commit/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/checks",
+      "commit": "68e8dda5d136e9afd33864e5e340ab2ecd7a9bec",
+      "triggering_commit": "68e8dda5d136e9afd33864e5e340ab2ecd7a9bec",
+      "build_url": "https://github.com/desanker/malawi/commit/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/checks",
       "job_url": "https://github.com/desanker/malawi/runs/run2"
     },
     "html_url": "https://desanker.github.io/malawi/",
     "pdf_url": "https://desanker.github.io/malawi/manuscript.pdf",
-    "html_url_versioned": "https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/",
-    "pdf_url_versioned": "https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/manuscript.pdf",
+    "html_url_versioned": "https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/",
+    "pdf_url_versioned": "https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c",
     "manuscript_stats": {

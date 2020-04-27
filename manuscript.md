@@ -1,9 +1,10 @@
 ---
 author-meta:
-- Paul V. Desanker
+- Malawi NAP Team
+- LDC Expert Group
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-26'
+date-meta: '2020-04-27'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Malawi Open NAP" />
 
-  <meta name="dc.date" content="2020-04-26" />
+  <meta name="dc.date" content="2020-04-27" />
 
-  <meta name="citation_publication_date" content="2020-04-26" />
+  <meta name="citation_publication_date" content="2020-04-27" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -38,9 +39,17 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="Paul V. Desanker" />
+  <meta name="citation_author" content="Malawi NAP Team" />
 
-  <meta name="citation_author_institution" content="UNFCCC Secretariat" />
+  <meta name="citation_author_institution" content="Government of Malawi" />
+
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
+  <meta name="twitter:creator" content="@xx" />
+
+  <meta name="citation_author" content="LDC Expert Group" />
+
+  <meta name="citation_author_institution" content="UNFCCC" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
@@ -58,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,17 +103,17 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3/))
+([permalink](https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/))
 was automatically generated
-from [desanker/malawi@88a7685](https://github.com/desanker/malawi/tree/88a7685b2ed1a5a2e2e1a96fbf1ac8ebb93d39d3)
-on April 26, 2020.
+from [desanker/malawi@68e8dda](https://github.com/desanker/malawi/tree/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec)
+on April 27, 2020.
 </em></small>
 
 ## Authors
 
 
 
-+ **Paul V. Desanker**<br>
++ **Malawi NAP Team**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
@@ -112,7 +121,18 @@ on April 26, 2020.
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [xx](https://twitter.com/xx)<br>
   <small>
-     UNFCCC Secretariat
+     Government of Malawi
+  </small>
+
++ **LDC Expert Group**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [desanker](https://github.com/desanker)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [xx](https://twitter.com/xx)<br>
+  <small>
+     UNFCCC
   </small>
 
 
