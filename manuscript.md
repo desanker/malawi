@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/64fd9c74512ac6b9416d7465464bddb320ac94e0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/64fd9c74512ac6b9416d7465464bddb320ac94e0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/64fd9c74512ac6b9416d7465464bddb320ac94e0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/))
+([permalink](https://desanker.github.io/malawi/v/64fd9c74512ac6b9416d7465464bddb320ac94e0/))
 was automatically generated
-from [desanker/malawi@bf3eb02](https://github.com/desanker/malawi/tree/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7)
+from [desanker/malawi@64fd9c7](https://github.com/desanker/malawi/tree/64fd9c74512ac6b9416d7465464bddb320ac94e0)
 on April 27, 2020.
 </em></small>
 
@@ -245,6 +245,8 @@ Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact She
 #### 10. Human health and well-being
 
 #### 11. Climate-related disasters
+
+#### 12. Human settlements
 
 
 ## Priority Adaptation Actions
