@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/523237a16455dda2ddbde86e180ee03965c68fb0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/523237a16455dda2ddbde86e180ee03965c68fb0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/523237a16455dda2ddbde86e180ee03965c68fb0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec/))
+([permalink](https://desanker.github.io/malawi/v/523237a16455dda2ddbde86e180ee03965c68fb0/))
 was automatically generated
-from [desanker/malawi@68e8dda](https://github.com/desanker/malawi/tree/68e8dda5d136e9afd33864e5e340ab2ecd7a9bec)
+from [desanker/malawi@523237a](https://github.com/desanker/malawi/tree/523237a16455dda2ddbde86e180ee03965c68fb0)
 on April 27, 2020.
 </em></small>
 
@@ -139,7 +139,13 @@ on April 27, 2020.
 
 ## Abstract {.page_break_before}
 
+The National Adaptation Plan for Malawi has been developed under the Open NAP Initiative based a country-driven and country-owned approach involve a wide-range of stakeholders from different entities in Malawi, building on equally participatory outputs that exist to support the national approach for adaptation. Malawi has participated in many adaptation initiatives for the last 20 years, both under the UNFCCC as well as through bilateral and national programmes. The NAP is thus not just another planning process, but rather an umbrella adaptation programme for the country, embracing all past and on-going adaptation initiatives. A notable contribution to this NAP are the outputs of a recently formulated SPCR under the World Bank's PPCR, which followed all internationally recognized standards of participation, gender responsiveness, country ownership and basis on best available science, to name a few. The PPCR programme came to a halt for Malawi soon after the SPCR, thus making the SPCR an orphan plan/stranded plan. The five major programmes proposed under the PPCR are sufficient to comprose a NAP, however, several other systems and priorities have been considered to supplement, and produce the current NAP. 
 
+The NAP embraces an iterative approach, with updates to be incorporated as things change and new assessments warrant it. This is accomplished by creating a "living document", with continuing assessments that can be integrated into the NAP at any time, subject to approval by the National NAP governance structure. The NAP is developed based on the guidelines agreed under the UNFCCC as expanded in the NAP Technical Guidelines, and is fully responsive to all the guiding principles outlined by the UNFCCC and further reinforced in Articles of the Paris Agreement. 
+
+The NAP will serve as an umbrella national adaptation programme, and as the source of input in the update to the NDC in 2020, along with an Adaptation Communication that will also be submitted to the Paris Agreement. The priority programmes agreed to in the NAP will be integrated into the GCF 5-year Country Programme, as well as a broader implementation strategy for adaptation at the country level through national, bilateral and other sources of funding.
+
+To continue the assessments underpinning the formulation of adaptation plans in the country, Malawi has recently accessed the GCF Readiness Support Programme to further advance the NAP process. Outputs form this project, when ready. will be integrated into updates and revisions of the NAP.
 
 
 # Malawi National Adaptation Plan
