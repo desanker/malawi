@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/desanker/malawi/tree/gh-pages) branch hosts the contents of this directory at <https://desanker.github.io/malawi/>.
-The permalink for this webpage version is <https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/>.
+The permalink for this webpage version is <https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://desanker.github.io/malawi/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`da6fe359ca3f357ff8e78bebeed64560dd3de36b`](https://github.com/desanker/malawi/commit/da6fe359ca3f357ff8e78bebeed64560dd3de36b).
+[`bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7`](https://github.com/desanker/malawi/commit/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7).
