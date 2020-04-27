@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/))
+([permalink](https://desanker.github.io/malawi/v/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7/))
 was automatically generated
-from [desanker/malawi@da6fe35](https://github.com/desanker/malawi/tree/da6fe359ca3f357ff8e78bebeed64560dd3de36b)
+from [desanker/malawi@bf3eb02](https://github.com/desanker/malawi/tree/bf3eb0266bfa2aa65049327c7b6ea30eedb0ccf7)
 on April 27, 2020.
 </em></small>
 
@@ -224,27 +224,28 @@ Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact She
 
 ### Systems at Risk
 
-#### Crop production
+#### 1. Crop production
 
-#### Food security
+#### 2. Food security
 
-#### Urban water supply
+#### 3. Urban water supply
 
-#### Hydroelectricity generation
+#### 4. Hydroelectricity generation
 
-#### Urban flooding
+#### 5. Urban flooding
 
-#### Lake Malawi and its many functions
+#### 6. Lake Malawi and its many functions
 
-#### Lake Chilwa and its many functions
+#### 7. Lake Chilwa and its many functions
 
-#### Degraded forest ecosystems and their services
+#### 8. Degraded forest ecosystems and their services
 
-#### Infrastructure at risk
+#### 9. Infrastructure at risk
 
-#### Human health and well-being
+#### 10. Human health and well-being
 
-#### Climate-related disasters
+#### 11. Climate-related disasters
+
 
 ## Priority Adaptation Actions
 
