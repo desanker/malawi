@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/523237a16455dda2ddbde86e180ee03965c68fb0/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/523237a16455dda2ddbde86e180ee03965c68fb0/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/523237a16455dda2ddbde86e180ee03965c68fb0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/523237a16455dda2ddbde86e180ee03965c68fb0/))
+([permalink](https://desanker.github.io/malawi/v/da6fe359ca3f357ff8e78bebeed64560dd3de36b/))
 was automatically generated
-from [desanker/malawi@523237a](https://github.com/desanker/malawi/tree/523237a16455dda2ddbde86e180ee03965c68fb0)
+from [desanker/malawi@da6fe35](https://github.com/desanker/malawi/tree/da6fe359ca3f357ff8e78bebeed64560dd3de36b)
 on April 27, 2020.
 </em></small>
 
@@ -222,17 +222,39 @@ Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact She
 *	Disruption of national, regional and global food supply chains
 *	Wildfire
 
-### Key Risks
+### Systems at Risk
 
-## Priority Adaptations
+#### Crop production
+
+#### Food security
+
+#### Urban water supply
+
+#### Hydroelectricity generation
+
+#### Urban flooding
+
+#### Lake Malawi and its many functions
+
+#### Lake Chilwa and its many functions
+
+#### Degraded forest ecosystems and their services
+
+#### Infrastructure at risk
+
+#### Human health and well-being
+
+#### Climate-related disasters
+
+## Priority Adaptation Actions
 
 Goals, objectives and expected outcomes of adaptation
 
 Taking a medium- to long-term approach and avoiding maladaptation
 
-1. National climate change adaptation programme: umbrella programme
+#### 1. National climate change adaptation programme: umbrella programme
 
-2. Projects and programmes to address key risks for the country
+#### 2. Projects and programmes to address key risks for the country
 
 * Climate Resilient Integrated Watershed Management (Total: US$ 84 million, PPCR/SPCR)
 * Building Climate Change Resilience in Selected Agricultural Value Chains in Malawi (Total: US$ 26 million, PPCR/SPCR)
@@ -245,7 +267,7 @@ Taking a medium- to long-term approach and avoiding maladaptation
 * National physical development planning under climate change
 * Building a resilient national food security
 
-3. Essential cross-cutting projects/programmes
+#### 3. Essential cross-cutting projects/programmes
  Creating an effective adaptation process and system (mainstreaming/integration, policies, governance, etc.)
 * Climate information services and early warnings systems, systematic observations
 * Active monitoring of key systems: crop production, water resources, ecosystems, etc
