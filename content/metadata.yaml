@@ -7,11 +7,20 @@ keywords:
 lang: en-US
 authors:
   - github: desanker
-    name: Paul V. Desanker
-    initials: PD
+    name: Malawi NAP Team
+    initials: MW
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: xx
-    email: PDesanker@unfccc.int
+    email: leghelp@unfccc.int
     affiliations:
-      - UNFCCC Secretariat
+      - Government of Malawi
+  - github: desanker
+    name: LDC Expert Group
+    initials: LEG
+    orcid: XXXX-XXXX-XXXX-XXXX
+    twitter: xx
+    email: leghelp@unfccc.int
+    affiliations:
+      - UNFCCC
+  
     
