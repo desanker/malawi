@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/64fd9c74512ac6b9416d7465464bddb320ac94e0/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/7066e4680d5120eeb9c1160a6fa270fe2cea9093/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/64fd9c74512ac6b9416d7465464bddb320ac94e0/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/7066e4680d5120eeb9c1160a6fa270fe2cea9093/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/64fd9c74512ac6b9416d7465464bddb320ac94e0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/7066e4680d5120eeb9c1160a6fa270fe2cea9093/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/64fd9c74512ac6b9416d7465464bddb320ac94e0/))
+([permalink](https://desanker.github.io/malawi/v/7066e4680d5120eeb9c1160a6fa270fe2cea9093/))
 was automatically generated
-from [desanker/malawi@64fd9c7](https://github.com/desanker/malawi/tree/64fd9c74512ac6b9416d7465464bddb320ac94e0)
+from [desanker/malawi@7066e46](https://github.com/desanker/malawi/tree/7066e4680d5120eeb9c1160a6fa270fe2cea9093)
 on April 27, 2020.
 </em></small>
 
@@ -224,7 +224,7 @@ Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact She
 
 ### Systems at Risk
 
-#### 1. Crop production
+#### 1. Crop production: Maize
 
 #### 2. Food security
 
