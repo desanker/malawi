@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/afd3cfdd3842bd2c092d73aff8b2a3e34db59b4c/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/602576df625cbe6b664e156978940d3d6c5964da/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/afd3cfdd3842bd2c092d73aff8b2a3e34db59b4c/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/602576df625cbe6b664e156978940d3d6c5964da/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/afd3cfdd3842bd2c092d73aff8b2a3e34db59b4c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/602576df625cbe6b664e156978940d3d6c5964da/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/afd3cfdd3842bd2c092d73aff8b2a3e34db59b4c/))
+([permalink](https://desanker.github.io/malawi/v/602576df625cbe6b664e156978940d3d6c5964da/))
 was automatically generated
-from [desanker/malawi@afd3cfd](https://github.com/desanker/malawi/tree/afd3cfdd3842bd2c092d73aff8b2a3e34db59b4c)
+from [desanker/malawi@602576d](https://github.com/desanker/malawi/tree/602576df625cbe6b664e156978940d3d6c5964da)
 on April 28, 2020.
 </em></small>
 
@@ -305,29 +305,22 @@ Year 5
 |      |Increase land under irrigation through Greenbelt initiative from 20,000 to 40,0000 ha |
 |      | Expanded programme of Greenbelt initiative from 40,000 ha to 100000 ha by 2030 |
 |      |Build adaptation capacity in climate resilient agronomic practices for smallholder farmers|
-|          | Promote on-farm water conservation technologies |
-|        |Support an expanded programme of constructing multipurpose dams for irrigation and 
-aquaculture |
+|      | Promote on-farm water conservation technologies |
+|     |Support an expanded programme of constructing multipurpose dams for irrigation and aquaculture |
 |     |Develop financial mechanisms to support crop insurance targeting smallholder farmers |
 |     |Promote the growing of drought tolerant crop varieties |
 |      |Implement conservation agriculture and agroforestry practices |
 |     |Promote improved land use practices |
 |Water | Implement integrated catchment conservation and management programme |
 |     |Promote water harvesting technologies at all levels |
-|     ||Support an expanded programme of constructing multipurpose dams to enhance water storage 
-|
+|     |Support an expanded programme of constructing multipurpose dams to enhance water storage| 
 |     |Support the revision of water related policies and strategies (inc. water SWAP) |
 |     |Develop and enhance climate information and early warning systems |
-|Human health | Build capacity to diagnose, prevent and control climate-sensitive diseases such as 
-malaria, diarrhea and malnutrition |
-|    |Enhance public awareness about water, sanitation and hygiene practices and enhance health 
-surveillance |
+|Human health | Build capacity to diagnose, prevent and control climate-sensitive diseases such as malaria, diarrhea and malnutrition |
+|    |Enhance public awareness about water, sanitation and hygiene practices and enhance health surveillance |
 |    |Support expanded programme for preventing and controlling climate-sensitive diseases |
-|    |Construct more health centres in order to improve access to health facilities within a walking 
-distance of 8 km |
-|     |Support the establishment of centre of excellence for research and disease control targeting 
-climate-sensitive diseases |
-|Energy | Promote use of biomass briquettes as substitute for firewood and charcoal |
+|    |Construct more health centres in order to improve access to health facilities within a walking a distance of 8 km |
+|     |Support the establishment of centre of excellence for research and disease control targeting climate-sensitive diseases| |Energy | Promote use of biomass briquettes as substitute for firewood and charcoal |
 |     |Promote an energy mix that moves people away from use of biomass |
 |     |Support an expanded programme of briquette production and use |
 |     |Construct storage dams for hydropower generation |
@@ -339,15 +332,13 @@ climate-sensitive diseases |
 |   |Support research in drought tolerant and fast-growing tree species |
 |Wildlife|Provide watering points at strategic locations of national park/game reserve |
 |     |Implement diseases control programmes |
-|     |Support capacity building in a wildlife institution to lead in adaptation initiatives e.g. 
-translocation and culling |
+|     |Support capacity building in a wildlife institution to lead in adaptation initiatives e.g. translocation and culling |
 |Fisheries | Capacity building in aquaculture and cage culture fish farming practices |
 |     |Adopt ecosystem services approach in the management of fisheries resources |
 |     |Promote aquaculture and cage culture fish farming practices |
 |     |Protect fish spawning/breeding sites |
 |     |Maintain fingerlings for stocking lakes and rivers after severe drought episodes |
-|Gender (and vulnerable groups) | Promote gender mainstreaming in policies, programmes and 
-projects |
+|Gender (and vulnerable groups) | Promote gender mainstreaming in policies, programmes and projects |
 |     |Support capacity building programmes for vulnerable groups |
 |Infrastructure | Construct infrastructure for flood control, transport etc. |
 |     |Develop and implement climate related building codes/standards |
