@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/4ff8eb254c723a1a7a581619af7494e8adbd44a0/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/58f2dfaad441ad8e094266a3b089478c77fcf4f3/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/4ff8eb254c723a1a7a581619af7494e8adbd44a0/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/58f2dfaad441ad8e094266a3b089478c77fcf4f3/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/4ff8eb254c723a1a7a581619af7494e8adbd44a0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/58f2dfaad441ad8e094266a3b089478c77fcf4f3/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/4ff8eb254c723a1a7a581619af7494e8adbd44a0/))
+([permalink](https://desanker.github.io/malawi/v/58f2dfaad441ad8e094266a3b089478c77fcf4f3/))
 was automatically generated
-from [desanker/malawi@4ff8eb2](https://github.com/desanker/malawi/tree/4ff8eb254c723a1a7a581619af7494e8adbd44a0)
+from [desanker/malawi@58f2dfa](https://github.com/desanker/malawi/tree/58f2dfaad441ad8e094266a3b089478c77fcf4f3)
 on April 29, 2020.
 </em></small>
 
@@ -332,7 +332,8 @@ Year 5
 |    |Enhance public awareness about water, sanitation and hygiene practices and enhance health surveillance |
 |    |Support expanded programme for preventing and controlling climate-sensitive diseases |
 |    |Construct more health centres in order to improve access to health facilities within a walking a distance of 8 km |
-|     |Support the establishment of centre of excellence for research and disease control targeting climate-sensitive diseases| |Energy | Promote use of biomass briquettes as substitute for firewood and charcoal |
+|     |Support the establishment of centre of excellence for research and disease control targeting climate-sensitive diseases|
+| Energy | Promote use of biomass briquettes as substitute for firewood and charcoal |
 |     |Promote an energy mix that moves people away from use of biomass |
 |     |Support an expanded programme of briquette production and use |
 |     |Construct storage dams for hydropower generation |
