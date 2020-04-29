@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/88be10a93ec045eee683a847f9e217840bcf37f1/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/ba64d72d49c6390208c9268a285b031e2d3cb6a9/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/88be10a93ec045eee683a847f9e217840bcf37f1/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/ba64d72d49c6390208c9268a285b031e2d3cb6a9/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/88be10a93ec045eee683a847f9e217840bcf37f1/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/ba64d72d49c6390208c9268a285b031e2d3cb6a9/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/88be10a93ec045eee683a847f9e217840bcf37f1/))
+([permalink](https://desanker.github.io/malawi/v/ba64d72d49c6390208c9268a285b031e2d3cb6a9/))
 was automatically generated
-from [desanker/malawi@88be10a](https://github.com/desanker/malawi/tree/88be10a93ec045eee683a847f9e217840bcf37f1)
+from [desanker/malawi@ba64d72](https://github.com/desanker/malawi/tree/ba64d72d49c6390208c9268a285b031e2d3cb6a9)
 on April 29, 2020.
 </em></small>
 
@@ -236,29 +236,445 @@ Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact She
 
 ### Systems at Risk
 
-#### 1. Crop production: Maize
+#### Crop production: Maize
 
-#### 2. Food security
+** System name: Crop Production: Maize**
 
-#### 3. Urban water supply
+** Brief description:**
 
-#### 4. Hydroelectricity generation
+This is the basic system of growing crops, choice of which would be based on standard parameters of weather patterns, general site suitability (soil, land quality), mainly based on rainfall patterns, and subject to regular pests and diseases. Main crops are subsistence crops, and choice is sometimes based on market conditions. 
+System model/analytical model: 
+Well-developed analytical model exists based on the IIASA/FAO Agroecological Zoning (AEZ) system, and it has been parameterized to run for the whole globe, covering all major crops. Nationally specific models exist such as for Kenya (original developed of the AEZ methodology), China and Thailand. The Global AEZ system is available online and has been applied to various global questions. 
+<Key references> 
 
-#### 5. Urban flooding
+** Current constraints (factors of production etc):** 
 
-#### 6. Lake Malawi and its many functions
+* Rainfall patterns
+* Quality of inputs (fertilizer, mechanization, extension services)
+* Quality and suitability of seed (provenance) for changing conditions
 
-#### 7. Lake Chilwa and its many functions
+** Risks now and in the future (CC and others):** 
 
-#### 8. Degraded forest ecosystems and their services
+* Risk of crop failing due to changing growing season weather conditions (floods, drought/aridity, changed patterns affecting phenological development, etc)
+* Risk of low yield due to poor inputs (limited fertilizer input)
+* Risk of crop failure due to pest outbreaks, such as locust, fall army worms, etc
 
-#### 9. Infrastructure at risk
+** Adaptation options to address the CC risks:** 
 
-#### 10. Human health and well-being
+* Changing crop types and provenances (to crops maturing in a shorter growth season, drought-tolerant varieties) – these may require new breeding programmes
+* Improve water management through irrigation, damming, etc. to reduce dependence on rain-fed production
+* Managing the full range of risks with a combination of actions and insurance at the local or national level
+* Dealing with extreme temperatures to avoid frost damage, and desiccation
 
-#### 11. Climate-related disasters
+** Required other actions to ensure adaptation is successful (e.g. baseline development investments, etc):** 
 
-#### 12. Human settlements
+* Data driven crop production system that utilizes best available climate information services
+* National insurance through ARC to manage risk of major crop failure and avoid food insecurity disaster
+* Crop breeding, data collection and monitoring to support extension services and support to farmers, manage pests and diseases
+
+** Adaptation potential rating:**
+
+* Medium to high
+
+**System name: Maize as a commodity**
+
+**Brief description:
+
+Maize is the main staple food for Malawi, and its production is shared between subsistence farmers, small-scale (commercial) farmers and a few big estates. Maize import/export is strictly controlled by government, in order to manage the price of maize on the market, given the heavy reliance of most rural inhabitants on their maize production for livelihood (food, income, employment). Maize is sold at local markets and also through state-run ADMARC centers. Private business owners also deal in maize, buying and selling at opportune times. Government buys maize at a fixed price through the ADMARC centers and subsidizes sale of the maize during times of shortage. The national strategic food reserve holds an inventory of maize and would release maize into the market in times of shortage to help manage the overall price of maize. The annual cycle of maize marketing is described in a paper by JICA …XXX 
+
+** Current constraints (factors of production etc):** 
+
+* Rainfall patterns/growing season characteristics and quality
+* Quality of inputs (fertilizer, mechanization, extension services)
+* Quality and suitability of seed (provenance) for changing conditions
+
+** Risks now and in the future (CC and others):** 
+
+* Risk of crop failing due to changing growing season weather conditions (floods, drought/aridity, changed patterns affecting phenological development, etc)
+* Risk of low yield due to poor inputs (limited fertilizer input)
+* Risk of crop failure due to pest outbreaks, such as locust, fall army worms, etc
+
+** Adaptation options to address the CC risks:** 
+
+* Changing crop types and provenances (to crops maturing in a shorter growth season, drought-tolerant varieties) – these may require new breeding programmes
+* Improve water management through irrigation, damming, etc to reduce dependence on rain-fed production
+* Managing the full range of risks with a combination of actions and insurance at the local or national level
+
+** Required other actions to ensure adaptation is successful:** 
+
+* Data driven crop production system that utilizes best available climate information services
+* National insurance through ARC to manage risk of major crop failure and avoid food insecurity disaster
+* Crop breeding, data collection and monitoring to support extension services and support to farmers, manage pests and diseases
+
+** Adaptation potential rating** 
+
+* Medium to high
+
+
+#### Food security
+
+**SYSTEM: National Strategic Grain Reserve**
+
+**System name: National grain reserves management **
+
+** Brief description:**
+
+Malawi established a National Food Reserve Agency (NFRA) in 1999. The NFRA is responsible for food price stabilization, export and import of food on behalf of government. Climate change is expected to impact food production, reserves and security through different feedback loops which requires a deeper and a complex managerial consideration to ensure ex-ante response. 
+
+** Current constraints (factors of production etc):**
+
+* increasing production input cost: supply constraints, energy costs and transport costs; 
+
+** Risks now and in the future (CC and others):**
+
+* xx
+
+** Adaptation options to address the CC risks:**
+
+* xx
+
+** Required other actions to ensure adaptation is successful (e.. baseline development investments, etc):**
+
+**Adaptation potential rating**
+
+
+#### Urban water supply
+
+**System name: Urban water system for [Lilongwe]** 
+
+** Brief description:**
+
+Water supply to residents of the City of Lilongwe is the responsibility of the Lilongwe Water Board. Water is sourced from several sources and pumped to several processing points before being piped to users. There is no system to recycle water. 
+System model/analytical model: 
+The standard model of an urban water system such as for California, represents a typical urban water system (water source point dynamics, distribution infrastructure (clean water, recycling, waste)) Network of water supply system and withdrawals 
+
+** Current constraints (factors of production etc):** 
+
+* Rainfall amounts for the basin and resultant flow in main river outlets (e.g. Malingunde river/dams) (drought conditions, etc)
+* Quality of the water dams as affected by land degradation in the basin resulting in siltation
+* Old infrastructure for conveyance of the water to processing plants and to users
+* Electricity supply for water pumps
+
+** Risks now and in the future (CC and others):** 
+
+* Risk of water shortages in the source dams due to low rainfall, heat wave or drought
+* Risk of water shortages to satisfy increasing demand due to expanding city/increasing population
+* Risk of interruption in water supply due to equipment failure (pumps, pipelines, etc)
+* Risk of interrupted water supply due to disruptions in power supply
+
+** Adaptation options to address the CC risks:** 
+
+* Expand options for source water to address projected needs in the medium- and long-term, such as building a pipeline from alternative sources (e.g. Lake Malawi) or expand use of belowground aquifers
+
+** Required other actions to ensure adaptation is successful** 
+
+* Establish water use controls, policies, including for periods of limited water supply
+* Develop contingency plans to deal with severe water shortages or disrupted service (cf. India’s Chennai and water by rail; water tankers; bans on water use for gardening, carwash)
+* Citizen participation in water saving strategies (lessons from Cape Town)
+* Use of automated monitoring systems to identify water leakages and reduce waste
+
+** Adaptation potential rating:**
+
+* Medium to high?
+
+**Supporting geospatial infrastructure and models:**
+
+**Resources:**
+
+* Relevant regional/global networks and programmes
+
+**Commonly used models:**
+
+* Xx
+
+**Case studies**
+
+* Cape Town
+* CA water System
+* Cyprus – pipeline from Turkey
+* Chennai, India
+* Bolivia
+* Sao Paulo
+
+#### Hydroelectricity generation and energy security:
+
+**MEGASYSTEM: Energy security**
+
+**SYSTEM: Hydroelectric generation**
+
+**Brief description:**
+
+ Malawi has abundant largely untapped hydro resources. The country’s current energy installed generation capacity is 365MW, of which 98 percent is from hydropower resources and the remainder from diesel power. All major power stations are located in the southern region along the Shire river. One small hydro station, the 4.5MW Wovwe plant, operates in the north of the country. The hydro-potential of the Shire River alone is estimated at about 600 MW, and another 400 megawatts of potential exists on smaller rivers. Indiscriminate human activities along the river Shire basins and the smaller rivers could reduce the potential capacity to generate hydro power. Future increases in temperature could allow accelerate the drying up of these water resource which could plunge Malawi into total darkness.  
+
+**Current constraints (factors of production etc):**
+
+* Encroachment of hydroelectric dams through activities sand winning threaten the stability of the dams.
+* Reduction in water levels as a result limited rainfall prevent dams from producing to capacity.
+* High cost of maintenance especially replacing obsolete equipment.
+* Operational losses especially power theft results in financial problems.
+
+**Risks now and in the future (CC and others):**
+
+* Risk of over dams collapsing.
+* Risk of rivers dry out mainly due climate change. 
+* Risk of dams’ spillage submerging nearby settlement. 
+* Risk of dams flooding farms.
+* Risk of dams disrupting flows, degrading water quality, blocking the movement of a river’s vital nutrients and sediment, destroying fish and wildlife habitat, impeding migration of fish and other aquatic species, and eliminate recreational opportunities.
+
+**Adaptation options to address the CC risks:**
+
+* Relocation of settlement areas demarcated for dam construction (e.g. relocation of the people of Tuyen Quang in Vietnam and 46 households were affected by Binh Dien hydropower plant and dam).
+* Resettlement of displaced people resulting from dam spillage (e.g. construction of James Bay in Quebec Canada).
+* Planting of tree around dams to help store water in the dam reservoir.
+
+**Required other actions to ensure adaptation is successful (e.g. baseline development investments, etc):**
+
+* Existing dams must be able to comply with all existing environmental laws and regulations.
+
+**Adaptation potential rating:**
+
+* High 
+
+**Supporting geospatial infrastructure and models:**
+
+* Xx
+
+**SYSTEM: Electricity distribution infrastructure (grid system)**
+
+**Brief description:**
+
+infrastructure for distributing electricity in Malawi include the four power generating stations situated along the Shire River and the transmission lines. These infrastructures are able to distribute power to only 10% of Malawians population with majority of the people having no access to hydro energy. In events of high storm existing infrastructure for distributing electricity could be stressed.  
+
+**Current constraints (factors of production etc):**
+
+* Limited distribution capacity 
+* Poor transmission infrastructure 
+* Wildfire burning high tension transmission poles in the forest.
+* Wind storm pulling down transmission lines cutting electricity supply to communities.
+* Bushfire causing the explosion of transformers in the Bush.
+* Frequent blackout due climate change extreme events (hurricanes, floods, wildfires).
+* Increasing cost of generation, transmission and maintenance.
+* Increased air temperatures reduced carrying capacity of lines and transformers
+* Increased air temperatures increased losses in lines and transformers.
+
+**Risks now and in the future (CC and others):**
+
+* Risk of transformers exploding as a result of wildfire.
+* Risk of interruption in power supply as a result of broken-down transmission grid. 
+* Risk of transformer catching fire mainly due to thunder strike. 
+
+**Adaptation options to address the CC risks:**
+
+* Creation of fire belt to prevent wildfire from burning high tension transmission lines.
+* Adoption of renewable energy to augment other generation (e.g. Canada Electricity Association is adopting renewable source).
+
+**Required other actions to ensure adaptation is successful (e.g. baseline development investments, etc):**
+
+* Rigorous implementation of climate resilience electricity infrastructure.
+
+**Adaptation potential rating:**
+
+* Xx
+* Xx
+
+
+#### Urban flooding
+
+**System name: Urban flooding management system**
+
+**Brief description:**
+ 
+The design of cities takes into account some measures for drainage of rainwater, often in open or underground spillovers that carry water to natural waterways/rivers, or some cases, into sewer lines. As climate is changing and when rainfall becomes more intense, drainage systems are often inadequate resulting in urban flooding. 
+
+**Current constraints (factors of production etc):**
+ 
+* Drainage channels designed with a maximum flow in mind
+* In some cases, no consideration was given to drainage of excess rainwater, especially in unplanned settled areas
+* Densely settled areas make it hard or impossible to install or modify drainage channels
+* Old drainage systems expensive to upgrade or repair
+
+**Risks now and in the future (CC and others):**
+
+* Risk of flooding locally during heavy rainstorms
+* Risk of failure of older drainage lines/blockages leaving to backflows and flooding
+* Risk of levees failing and causing flooding
+* Risk of dams failing and causing flooding downriver/dams overflowing and gates having to be reopened urgently, leaving to flooding
+* Risk of loss of life when people unfamiliar with flood waters take chances in crossing overflowing bridges, etc
+* Risk of flooding in human settlements/houses and business areas
+* Risk of drainage system failure contaminating drinking water systems
+* For cities at mouth of major river systems (coastal cities), risk of heavy rain in any arts of the watershed leaving to flooding downriver in the city
+
+**Adaptation options to address the CC risks:**
+ 
+* Upgrade old drainage systems and expand capacity
+* Build underground storm water storage areas (e.g. water storage under the Washington Mall, in Washington DC, USA; Bangkok City) and optionally pumps to redirect water to alternative outlets (e.g. Tokyo example)
+* Upgrade flow channels to re-direct storm water to parks in the city (e.g. Copenhagen)
+* Redirect river flows towards coastal cities to alternative channels into the sea to reduce flooding (e.g. Nadi, Fiji)
+* Slow down river flows with dams or other structures along the river, to reduce flooding in coastal cities
+* Build levees
+* Build walls around important infrastructure (e.g. around a museum)
+* Builds walls around coastal cities (NY – xxx)
+
+**Required other actions to ensure adaptation is successful (e.g. baseline development investments, etc):**
+ 
+* Enforce zoning laws for city dwellings to avoid flooding damage of houses
+* Develop evacuation plans and conduct drills
+* Plan cities to include soakways, directed drainage channels, etc
+
+**Adaptation potential rating":**
+
+* Medium?
+
+#### Lake Malawi and its many functions
+
+(Biodiversity, Fisheries, hydropower generation, greenbelt irrigation initiative, tourism)
+
+**System name: Lake Malawi**
+ 
+**Brief description:**
+
+* Unique biodiversity: Lake Malawi is special to all Malawians and globally for a number of reasons. It is a center of biodiversity endemism and is home to unique fish species. It boosts the Lake Malawi National Park, a UNESCO heritage site, an underwater nature reserve. See https://whc.unesco.org/en/list/289/. It has been a UNESCO World Heritage site since 1984, celebrated for its stunning ecosystem that is home to hundreds of fish species, Lake Malawi National Park’s importance when it comes to the study of evolution is likened to that of the Galapagos Islands finches! Another key feature is that of the midges that swarm over Lake Malawi and can be seen from space. 
+* Lake Malawi as a major water body supplying water for irrigation and drinking water 
+* Lake Malawi as source of the Shire River, implications for hydroelectricity generation on the Shire 
+* Lake Malawi as a tourist destination 
+
+**Current constraints (factors of production etc):** 
+
+* The dynamics of the lake levels, lake temperatures and condition, and how it responds to various factors affecting the watershed area, are not fully understood, despite several major research projects on the lake (GEF, IGBP/PAGES, etc)
+* Land degradation in the watershed area is assumed to cause siltation and changes in inflow to the lake, affecting its ecology and overall water levels
+* Variability in rainfall in the watershed area is assumed to impact inflow, and ultimately the outflow.
+* Inadequate data collection relating to water inputs, withdrawals, water temperatures etc, are a major constraint to a data-driven analysis of the lake and its management
+* Mining activities in the watershed area are on the increase, in particular for Uranium in the north, coal and others.
+
+**Risks now and in the future (CC and others):**
+ 
+* Risk of water levels dropping too low for outflow through the Shire River to sustain electricity generation downriver
+* Risk of changing water temperatures affecting fish breeding at different levels of the lake, severely impacting the unique fish biodiversity of the lake
+* Risk of increasing land degradation in the watershed area increasing siltation and limiting river inflows into the lake
+* Risk of contaminants from the uranium mine in the north of the country severely damaging fish ecology and production, and also risk of contamination of drinking water and water for major irrigation efforts along the lake and in the Shire Basin
+* Risk of contamination of the lake leading to losses in tourist income
+* Risk of collapse of the fish industry based on the lake, in particular for main species of tilapia/chambo, usipa, catfish and several other species.
+
+**Adaptation options to address the CC risks:**
+ 
+* Rehabilitation of landscapes in the watershed areas to ensure steady water inputs into the lake
+* Fish genebanks to safeguard the unique biological biodiversity of the lake
+* Restrictions on fishing to manage yields under changing conditions
+* Construction and rehabilitation of barrages on the Shire River to manage water flows in the Shire
+* Careful tradeoff in water usage between irrigation, water for Lilongwe, and water needed to outflow into the Shire River for hydroelectricity generation
+* Fish breeding to sustain population of key species
+
+**Required other actions to ensure adaptation is successful:**
+ 
+* Establish water use controls, policies, including for periods of low water levels
+* Develop contingency plans to deal with severely low water levels in terms of electricity supply for the country
+* Use of automated monitoring systems to measure inflows and outflows
+
+**Adaptation potential rating:**
+
+* Low to medium?
+
+#### Lake Chilwa and its many functions
+
+
+#### Degraded forest ecosystems and their services
+
+
+#### Infrastructure at risk
+
+
+#### Human health and well-being
+
+
+#### Climate-related disasters
+
+**MEGASYSTEM: Disaster Risk - Human safety and well-being**
+SYSTEM: Heat waves as a planning system**
+
+**System name: Managing heat weaves**
+
+**Brief description:**
+
+In Malawi, extreme heat hazard is classified as high based on modelled heat information. The current heatwave may have been unprecedented and unexpected, but climate projections show that this occurrence will become more common in the future. Whilst currently there are around 40 days per year with temperatures exceeding 35°C, this is likely to become 50 to 100 days by the 2050s.  The evidence about the risks to health from heatwaves is extensive and consistent from around the world.
+
+**Current constraints (factors of production etc):**
+
+* xx
+
+**Risks now and in the future (CC and others):**
+
+* Risk of mortality especially among the elderly and other vulnerable groups
+* Risk of damage of heat sensitive crops such as tea
+* xx 
+
+**Adaptation options to address the CC risks:**
+
+* develop/adopt drought/heat resistant crop varieties
+* Investments in water supply services and infrastructures: creating and/or repairing fountains for drinking and cooling; cooling by water spray (fountains) 
+
+**Required other actions to ensure adaptation is successful (e.. baseline development investments, etc):**
+
+* Creating heat preparedness plans,
+* identify vulnerable populations
+
+**Adaptation potential rating:**
+
+* Medium?
+
+**Supporting geospatial infrastructure and models:**
+
+**Resources:**
+
+* Xx
+
+**Case studies to cite:**
+
+* France, other cities with a heat wave plan
+
+**SYSTEM: River bank flooding as a planning system**
+
+**System name: River flood risk management**
+ 
+**Brief description:**
+
+There is no formal flooding zoning and areas along major rivers (and some smaller ones) are subject to seasonal flooding. Flooding incidents are on the increase, especially for rivers with multiple tributaries. With extensive degradation in watershed areas, runoff is excessive, increase the likelihood of flooding. 
+Potentially damaging and life-threatening river floods are expected to occur at least once in 10 years. National disaster risk policy supports the consideration of river flood risk management as an important part of achieving proper planning and sustainable development.
+
+**Current constraints (factors of production etc):**
+
+* Limited local government authority on physical development
+* Large-scale deforestation driven by farming, urbanization
+
+**Risks now and in the future (CC and others):**
+
+* xxx
+
+**Adaptation options to address the CC risks:**
+
+* Flood zoning and related policies for settlement/lad use;
+* Afforestation of river banks and localized embankment;
+* Creation and restoration of storm-water drainage; 
+* Restoration of riparian forests; 
+* Develop flood protection bunds around critical infrastructure.
+
+**Required other actions to ensure adaptation is successful (e.. baseline development investments, etc):**
+
+**Adaptation potential rating:**
+
+High? 
+
+**Supporting geospatial infrastructure and models**
+
+3-D maps/models
+
+* River network flow models
+
+**Resources:**
+
+* Relevant regional/global networks and programmes
+* Xx
+
+12. Human settlements
 
 
 ## Priority Adaptation Actions
