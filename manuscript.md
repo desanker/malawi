@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/58f2dfaad441ad8e094266a3b089478c77fcf4f3/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/88be10a93ec045eee683a847f9e217840bcf37f1/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/58f2dfaad441ad8e094266a3b089478c77fcf4f3/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/88be10a93ec045eee683a847f9e217840bcf37f1/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/58f2dfaad441ad8e094266a3b089478c77fcf4f3/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/88be10a93ec045eee683a847f9e217840bcf37f1/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/58f2dfaad441ad8e094266a3b089478c77fcf4f3/))
+([permalink](https://desanker.github.io/malawi/v/88be10a93ec045eee683a847f9e217840bcf37f1/))
 was automatically generated
-from [desanker/malawi@58f2dfa](https://github.com/desanker/malawi/tree/58f2dfaad441ad8e094266a3b089478c77fcf4f3)
+from [desanker/malawi@88be10a](https://github.com/desanker/malawi/tree/88be10a93ec045eee683a847f9e217840bcf37f1)
 on April 29, 2020.
 </em></small>
 
@@ -267,27 +267,30 @@ Goals, objectives and expected outcomes of adaptation
 
 Taking a medium- to long-term approach and avoiding maladaptation
 
-#### 1. National climate change adaptation programme: umbrella programme
+#### A. Governance and coordination of adaptation activities
 
-#### 2. Projects and programmes to address key risks for the country
+1. National climate change adaptation programme: umbrella programme
+2. xxx
 
-* Climate Resilient Integrated Watershed Management (Total: US$ 84 million, PPCR/SPCR)
-* Building Climate Change Resilience in Selected Agricultural Value Chains in Malawi (Total: US$ 26 million, PPCR/SPCR)
-* Sustainable Fisheries Sector and Fisheries Value Chain in Malawi through Improved Climate Resilient Lake Ecosystem Conservation and Management (Total: US$ 18.2 million, PPCR/SPCR)
-* Strengthening Climate Resilience of Smallholder Farmers in Malawi (Total: US$ 13.5 million, PPCR/SPCR- FAO)
-* Operationalising Malawi’s Climate Services Centre (Total: US$ 17.3 million, PPCR/SPCR)
-* Forest landscape restoration programme
-* Lake Malawi Ecosystem
-* Lake Chilwa Ecosystem and Value Chains
-* National physical development planning under climate change
-* Building a resilient national food security
+#### B. Projects and programmes to address key risks for the country
 
-#### 3. Essential cross-cutting projects/programmes
- Creating an effective adaptation process and system (mainstreaming/integration, policies, governance, etc.)
-* Climate information services and early warnings systems, systematic observations
-* Active monitoring of key systems: crop production, water resources, ecosystems, etc
-* M&E system – individual projects and in aggregate for the country
-* Capacity development for implementation of adaptation and support to the process including data and information management, etc
+1. Climate Resilient Integrated Watershed Management (Total: US$ 84 million, PPCR/SPCR)
+2. Building Climate Change Resilience in Selected Agricultural Value Chains in Malawi (Total: US$ 26 million, PPCR/SPCR)
+3. Sustainable Fisheries Sector and Fisheries Value Chain in Malawi through Improved Climate Resilient Lake Ecosystem Conservation and Management (Total: US$ 18.2 million, PPCR/SPCR)
+4. Strengthening Climate Resilience of Smallholder Farmers in Malawi (Total: US$ 13.5 million, PPCR/SPCR- FAO)
+5. Operationalising Malawi’s Climate Services Centre (Total: US$ 17.3 million, PPCR/SPCR)
+6. Forest landscape restoration programme
+7. Lake Malawi Ecosystem
+8. Lake Chilwa Ecosystem and Value Chains
+9. National physical development planning under climate change
+10. Building a resilient national food security
+
+#### C. Essential cross-cutting projects/programmes
+11. Creating an effective adaptation process and system (mainstreaming/integration, policies, governance, etc.)
+12. Climate information services and early warnings systems, systematic observations
+13. Active monitoring of key systems: crop production, water resources, ecosystems, etc
+14. M&E system – individual projects and in aggregate for the country
+15. Capacity development for implementation of adaptation and support to the process including data and information management, etc
 
 ## Implementation Strategy
 
