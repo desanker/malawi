@@ -4,7 +4,7 @@ author-meta:
 - LDC Expert Group
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-28'
+date-meta: '2020-04-29'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Malawi Open NAP" />
 
-  <meta name="dc.date" content="2020-04-28" />
+  <meta name="dc.date" content="2020-04-29" />
 
-  <meta name="citation_publication_date" content="2020-04-28" />
+  <meta name="citation_publication_date" content="2020-04-29" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/602576df625cbe6b664e156978940d3d6c5964da/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/4ff8eb254c723a1a7a581619af7494e8adbd44a0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/602576df625cbe6b664e156978940d3d6c5964da/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/4ff8eb254c723a1a7a581619af7494e8adbd44a0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/602576df625cbe6b664e156978940d3d6c5964da/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/4ff8eb254c723a1a7a581619af7494e8adbd44a0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/602576df625cbe6b664e156978940d3d6c5964da/))
+([permalink](https://desanker.github.io/malawi/v/4ff8eb254c723a1a7a581619af7494e8adbd44a0/))
 was automatically generated
-from [desanker/malawi@602576d](https://github.com/desanker/malawi/tree/602576df625cbe6b664e156978940d3d6c5964da)
-on April 28, 2020.
+from [desanker/malawi@4ff8eb2](https://github.com/desanker/malawi/tree/4ff8eb254c723a1a7a581619af7494e8adbd44a0)
+on April 29, 2020.
 </em></small>
 
 ## Authors
@@ -145,7 +145,19 @@ The NAP embraces an iterative approach, with updates to be incorporated as thing
 
 The NAP will serve as an umbrella national adaptation programme, and as the source of input in the update to the NDC in 2020, along with an Adaptation Communication that will also be submitted to the Paris Agreement. The priority programmes agreed to in the NAP will be integrated into the GCF 5-year Country Programme, as well as a broader implementation strategy for adaptation at the country level through national, bilateral and other sources of funding.
 
+As an umbrella programme for adaptation for the country, the NAP will integrate assessments carried out by different actors and will present outputs that can be used and serve the needs of the actors in their subsequent work on adaptation for Malawi. These include:
+
+- Government-led efforts including in accessing financing from the UNFCCC funds (GCF, GEF, AF, LDCF);
+- Efforts supported through bilateral support to government or non-governmental entities;
+- Efforts under the PPCR;
+- Efforts supported through non-governmental organizations or the private sector;
+- Efforts that would be part of regional and global activities;
+- Efforts in updating the NDC and in preparing an adaptation communication to the Paris Agreemen.
+
+The NAP also presents a set of adaptation goals, objectives and targets, along with iindicators, in aggregate for the country, as well as for key systems.
+
 To continue the assessments underpinning the formulation of adaptation plans in the country, Malawi has recently accessed the GCF Readiness Support Programme to further advance the NAP process. Outputs form this project, when ready. will be integrated into updates and revisions of the NAP.
+
 
 
 # Malawi National Adaptation Plan
