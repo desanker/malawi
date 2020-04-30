@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/24376c25427b02a511714b84333c0cadea5bba53/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/ae5a52b759aa8823ea9a476643a7442d194463cb/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/24376c25427b02a511714b84333c0cadea5bba53/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/ae5a52b759aa8823ea9a476643a7442d194463cb/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/24376c25427b02a511714b84333c0cadea5bba53/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/ae5a52b759aa8823ea9a476643a7442d194463cb/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/24376c25427b02a511714b84333c0cadea5bba53/))
+([permalink](https://desanker.github.io/malawi/v/ae5a52b759aa8823ea9a476643a7442d194463cb/))
 was automatically generated
-from [desanker/malawi@24376c2](https://github.com/desanker/malawi/tree/24376c25427b02a511714b84333c0cadea5bba53)
+from [desanker/malawi@ae5a52b](https://github.com/desanker/malawi/tree/ae5a52b759aa8823ea9a476643a7442d194463cb)
 on April 30, 2020.
 </em></small>
 
@@ -314,7 +314,7 @@ Maize is the main staple food for Malawi, and its production is shared between s
 
 **SYSTEM: National Strategic Grain Reserve**
 
-**System name: National grain reserves management **
+**System name: National grain reserves management**
 
 **Brief description:**
 
@@ -520,7 +520,7 @@ The design of cities takes into account some measures for drainage of rainwater,
 * Develop evacuation plans and conduct drills
 * Plan cities to include soakways, directed drainage channels, etc
 
-**Adaptation potential rating":**
+**Adaptation potential rating:**
 
 * Medium?
 
