@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/04f6c8257926ed6751dd0ebf667c35edf3baa638/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/24376c25427b02a511714b84333c0cadea5bba53/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/04f6c8257926ed6751dd0ebf667c35edf3baa638/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/24376c25427b02a511714b84333c0cadea5bba53/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/04f6c8257926ed6751dd0ebf667c35edf3baa638/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/24376c25427b02a511714b84333c0cadea5bba53/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/04f6c8257926ed6751dd0ebf667c35edf3baa638/))
+([permalink](https://desanker.github.io/malawi/v/24376c25427b02a511714b84333c0cadea5bba53/))
 was automatically generated
-from [desanker/malawi@04f6c82](https://github.com/desanker/malawi/tree/04f6c8257926ed6751dd0ebf667c35edf3baa638)
+from [desanker/malawi@24376c2](https://github.com/desanker/malawi/tree/24376c25427b02a511714b84333c0cadea5bba53)
 on April 30, 2020.
 </em></small>
 
@@ -238,41 +238,41 @@ Source: For the summary, USAID 2017. Climate change risk profile Malawi.Fact She
 
 #### Crop production: Maize
 
-** System name: Crop Production: Maize**
+**System name: Crop Production: Maize**
 
-** Brief description:**
+**Brief description:**
 
 This is the basic system of growing crops, choice of which would be based on standard parameters of weather patterns, general site suitability (soil, land quality), mainly based on rainfall patterns, and subject to regular pests and diseases. Main crops are subsistence crops, and choice is sometimes based on market conditions. 
 System model/analytical model: 
 Well-developed analytical model exists based on the IIASA/FAO Agroecological Zoning (AEZ) system, and it has been parameterized to run for the whole globe, covering all major crops. Nationally specific models exist such as for Kenya (original developed of the AEZ methodology), China and Thailand. The Global AEZ system is available online and has been applied to various global questions. 
 <Key references> 
 
-** Current constraints (factors of production etc):** 
+**Current constraints (factors of production etc):** 
 
 * Rainfall patterns
 * Quality of inputs (fertilizer, mechanization, extension services)
 * Quality and suitability of seed (provenance) for changing conditions
 
-** Risks now and in the future (CC and others):** 
+**Risks now and in the future (CC and others):** 
 
 * Risk of crop failing due to changing growing season weather conditions (floods, drought/aridity, changed patterns affecting phenological development, etc)
 * Risk of low yield due to poor inputs (limited fertilizer input)
 * Risk of crop failure due to pest outbreaks, such as locust, fall army worms, etc
 
-** Adaptation options to address the CC risks:** 
+**Adaptation options to address the CC risks:** 
 
 * Changing crop types and provenances (to crops maturing in a shorter growth season, drought-tolerant varieties) – these may require new breeding programmes
 * Improve water management through irrigation, damming, etc. to reduce dependence on rain-fed production
 * Managing the full range of risks with a combination of actions and insurance at the local or national level
 * Dealing with extreme temperatures to avoid frost damage, and desiccation
 
-** Required other actions to ensure adaptation is successful (e.g. baseline development investments, etc):** 
+**Required other actions to ensure adaptation is successful (e.g. baseline development investments, etc):** 
 
 * Data driven crop production system that utilizes best available climate information services
 * National insurance through ARC to manage risk of major crop failure and avoid food insecurity disaster
 * Crop breeding, data collection and monitoring to support extension services and support to farmers, manage pests and diseases
 
-** Adaptation potential rating:**
+**Adaptation potential rating:**
 
 * Medium to high
 
