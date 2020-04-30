@@ -4,7 +4,7 @@ author-meta:
 - LDC Expert Group
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-29'
+date-meta: '2020-04-30'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Malawi Open NAP" />
 
-  <meta name="dc.date" content="2020-04-29" />
+  <meta name="dc.date" content="2020-04-30" />
 
-  <meta name="citation_publication_date" content="2020-04-29" />
+  <meta name="citation_publication_date" content="2020-04-30" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/ba64d72d49c6390208c9268a285b031e2d3cb6a9/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/04f6c8257926ed6751dd0ebf667c35edf3baa638/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/ba64d72d49c6390208c9268a285b031e2d3cb6a9/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/04f6c8257926ed6751dd0ebf667c35edf3baa638/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/ba64d72d49c6390208c9268a285b031e2d3cb6a9/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/04f6c8257926ed6751dd0ebf667c35edf3baa638/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/ba64d72d49c6390208c9268a285b031e2d3cb6a9/))
+([permalink](https://desanker.github.io/malawi/v/04f6c8257926ed6751dd0ebf667c35edf3baa638/))
 was automatically generated
-from [desanker/malawi@ba64d72](https://github.com/desanker/malawi/tree/ba64d72d49c6390208c9268a285b031e2d3cb6a9)
-on April 29, 2020.
+from [desanker/malawi@04f6c82](https://github.com/desanker/malawi/tree/04f6c8257926ed6751dd0ebf667c35edf3baa638)
+on April 30, 2020.
 </em></small>
 
 ## Authors
@@ -278,38 +278,37 @@ Well-developed analytical model exists based on the IIASA/FAO Agroecological Zon
 
 **System name: Maize as a commodity**
 
-**Brief description:
+**Brief description:**
 
 Maize is the main staple food for Malawi, and its production is shared between subsistence farmers, small-scale (commercial) farmers and a few big estates. Maize import/export is strictly controlled by government, in order to manage the price of maize on the market, given the heavy reliance of most rural inhabitants on their maize production for livelihood (food, income, employment). Maize is sold at local markets and also through state-run ADMARC centers. Private business owners also deal in maize, buying and selling at opportune times. Government buys maize at a fixed price through the ADMARC centers and subsidizes sale of the maize during times of shortage. The national strategic food reserve holds an inventory of maize and would release maize into the market in times of shortage to help manage the overall price of maize. The annual cycle of maize marketing is described in a paper by JICA …XXX 
 
-** Current constraints (factors of production etc):** 
+**Current constraints (factors of production etc):** 
 
 * Rainfall patterns/growing season characteristics and quality
 * Quality of inputs (fertilizer, mechanization, extension services)
 * Quality and suitability of seed (provenance) for changing conditions
 
-** Risks now and in the future (CC and others):** 
+**Risks now and in the future (CC and others):** 
 
 * Risk of crop failing due to changing growing season weather conditions (floods, drought/aridity, changed patterns affecting phenological development, etc)
 * Risk of low yield due to poor inputs (limited fertilizer input)
 * Risk of crop failure due to pest outbreaks, such as locust, fall army worms, etc
 
-** Adaptation options to address the CC risks:** 
+**Adaptation options to address the CC risks:** 
 
 * Changing crop types and provenances (to crops maturing in a shorter growth season, drought-tolerant varieties) – these may require new breeding programmes
 * Improve water management through irrigation, damming, etc to reduce dependence on rain-fed production
 * Managing the full range of risks with a combination of actions and insurance at the local or national level
 
-** Required other actions to ensure adaptation is successful:** 
+**Required other actions to ensure adaptation is successful:** 
 
 * Data driven crop production system that utilizes best available climate information services
 * National insurance through ARC to manage risk of major crop failure and avoid food insecurity disaster
 * Crop breeding, data collection and monitoring to support extension services and support to farmers, manage pests and diseases
 
-** Adaptation potential rating** 
+**Adaptation potential rating** 
 
 * Medium to high
-
 
 #### Food security
 
@@ -317,23 +316,23 @@ Maize is the main staple food for Malawi, and its production is shared between s
 
 **System name: National grain reserves management **
 
-** Brief description:**
+**Brief description:**
 
 Malawi established a National Food Reserve Agency (NFRA) in 1999. The NFRA is responsible for food price stabilization, export and import of food on behalf of government. Climate change is expected to impact food production, reserves and security through different feedback loops which requires a deeper and a complex managerial consideration to ensure ex-ante response. 
 
-** Current constraints (factors of production etc):**
+**Current constraints (factors of production etc):**
 
 * increasing production input cost: supply constraints, energy costs and transport costs; 
 
-** Risks now and in the future (CC and others):**
+**Risks now and in the future (CC and others):**
 
 * xx
 
-** Adaptation options to address the CC risks:**
+**Adaptation options to address the CC risks:**
 
 * xx
 
-** Required other actions to ensure adaptation is successful (e.. baseline development investments, etc):**
+**Required other actions to ensure adaptation is successful (e.. baseline development investments, etc):**
 
 **Adaptation potential rating**
 
@@ -342,38 +341,38 @@ Malawi established a National Food Reserve Agency (NFRA) in 1999. The NFRA is re
 
 **System name: Urban water system for [Lilongwe]** 
 
-** Brief description:**
+**Brief description:**
 
 Water supply to residents of the City of Lilongwe is the responsibility of the Lilongwe Water Board. Water is sourced from several sources and pumped to several processing points before being piped to users. There is no system to recycle water. 
 System model/analytical model: 
 The standard model of an urban water system such as for California, represents a typical urban water system (water source point dynamics, distribution infrastructure (clean water, recycling, waste)) Network of water supply system and withdrawals 
 
-** Current constraints (factors of production etc):** 
+**Current constraints (factors of production etc):** 
 
 * Rainfall amounts for the basin and resultant flow in main river outlets (e.g. Malingunde river/dams) (drought conditions, etc)
 * Quality of the water dams as affected by land degradation in the basin resulting in siltation
 * Old infrastructure for conveyance of the water to processing plants and to users
 * Electricity supply for water pumps
 
-** Risks now and in the future (CC and others):** 
+**Risks now and in the future (CC and others):** 
 
 * Risk of water shortages in the source dams due to low rainfall, heat wave or drought
 * Risk of water shortages to satisfy increasing demand due to expanding city/increasing population
 * Risk of interruption in water supply due to equipment failure (pumps, pipelines, etc)
 * Risk of interrupted water supply due to disruptions in power supply
 
-** Adaptation options to address the CC risks:** 
+**Adaptation options to address the CC risks:** 
 
 * Expand options for source water to address projected needs in the medium- and long-term, such as building a pipeline from alternative sources (e.g. Lake Malawi) or expand use of belowground aquifers
 
-** Required other actions to ensure adaptation is successful** 
+**Required other actions to ensure adaptation is successful** 
 
 * Establish water use controls, policies, including for periods of limited water supply
 * Develop contingency plans to deal with severe water shortages or disrupted service (cf. India’s Chennai and water by rail; water tankers; bans on water use for gardening, carwash)
 * Citizen participation in water saving strategies (lessons from Cape Town)
 * Use of automated monitoring systems to identify water leakages and reduce waste
 
-** Adaptation potential rating:**
+**Adaptation potential rating:**
 
 * Medium to high?
 
@@ -710,12 +709,18 @@ Taking a medium- to long-term approach and avoiding maladaptation
 
 ## Implementation Strategy
 
-Alignment with the GCF country programme
+**Alignment with the GCF country programme**
+
 The priorities in the NAP will form the 5-year country programme for engagement with the GCF as follows:
+
 Year 1
+
 Year 2
+
 Year 3
+
 Year 4
+
 Year 5
 
 ## References 
