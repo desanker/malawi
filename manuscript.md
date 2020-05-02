@@ -4,7 +4,7 @@ author-meta:
 - LDC Expert Group
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-30'
+date-meta: '2020-05-02'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Malawi Open NAP" />
 
-  <meta name="dc.date" content="2020-04-30" />
+  <meta name="dc.date" content="2020-05-02" />
 
-  <meta name="citation_publication_date" content="2020-04-30" />
+  <meta name="citation_publication_date" content="2020-05-02" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/ae5a52b759aa8823ea9a476643a7442d194463cb/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/635b77ab4008468fd307df04f13fab403f0dfec7/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/ae5a52b759aa8823ea9a476643a7442d194463cb/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/635b77ab4008468fd307df04f13fab403f0dfec7/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/ae5a52b759aa8823ea9a476643a7442d194463cb/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/635b77ab4008468fd307df04f13fab403f0dfec7/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/ae5a52b759aa8823ea9a476643a7442d194463cb/))
+([permalink](https://desanker.github.io/malawi/v/635b77ab4008468fd307df04f13fab403f0dfec7/))
 was automatically generated
-from [desanker/malawi@ae5a52b](https://github.com/desanker/malawi/tree/ae5a52b759aa8823ea9a476643a7442d194463cb)
-on April 30, 2020.
+from [desanker/malawi@635b77a](https://github.com/desanker/malawi/tree/635b77ab4008468fd307df04f13fab403f0dfec7)
+on May 2, 2020.
 </em></small>
 
 ## Authors
@@ -783,6 +783,26 @@ Year 5
 |Industry | Promote research in industrial technologies |
 
  
+
+
+## Main references for the Malawi Open NAP
+
+Aragie, Emerta, Karl Pauw, and Valentina Pernechele. “Achieving Food Security and Industrial Development in Malawi: Are Export Restrictions the Solution?” World Development 108 (August 2018): 1–15. https://doi.org/10.1016/j.worlddev.2018.03.020.
+
+Hughes, Nigel Ross, Simon Croxton, and Louise E. M. Croneborg. “Malawi Country Environmental Analysis.” The World Bank, January 1, 2019. http://documents.worldbank.org/curated/en/508561550587004266/Malawi-Country-Environmental-Analysis.
+
+Meerman, Janice; Aberman, Noora-Lisa; Harris, Jody; and Pauw, Karl. 2018. Indicators for examining links between agriculture, food security, and nutrition. In Agriculture, food security, and nutrition in Malawi: Leveraging the links, eds. Noora-Lisa Aberman, Janice Meerman, and Todd Benson. Chapter 2, Pp. 17-29. Washington, D.C.: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/9780896292864_02
+
+Hurford, A.P., S.D. Wade, and J. Winpenny. “Malawi Case Study: Harnessing Hydropower.” Evidence on Demand, December 2014. https://doi.org/10.12774/eod_cr.september2014.hurfordaetal04.
+
+Malawi, and Environmental Affairs Department. National Climate Change Management Policy, 2016.
+
+Kaluma, Felix N. D., Stephen K. Machira, Patrick C. Kamwendo, and Malawi, eds. National Environmental Action Plan. Lilongwe: Malawi, Dept. of Research and Environmental Affairs, 1994.
+
+Malawi, ed. The Second National Communication of the Republic of Malawi under the Conference of the Parties (COP) of the United Nations Framework Convention on Climate Change (UNFCCC). Lilongwe, Malawi: Ministry of Natural Resources, Energy and Environment, 2011.
+
+
+
 
 
 ## References {.page_break_before}
