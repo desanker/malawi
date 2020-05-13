@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/472af3560e600f5ef65d1ba39c4a37386af1cf7b/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/7f71f0680f776acd1987b79ba99fd3b96646c740/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/472af3560e600f5ef65d1ba39c4a37386af1cf7b/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/7f71f0680f776acd1987b79ba99fd3b96646c740/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/472af3560e600f5ef65d1ba39c4a37386af1cf7b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/7f71f0680f776acd1987b79ba99fd3b96646c740/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/472af3560e600f5ef65d1ba39c4a37386af1cf7b/))
+([permalink](https://desanker.github.io/malawi/v/7f71f0680f776acd1987b79ba99fd3b96646c740/))
 was automatically generated
-from [desanker/malawi@472af35](https://github.com/desanker/malawi/tree/472af3560e600f5ef65d1ba39c4a37386af1cf7b)
+from [desanker/malawi@7f71f06](https://github.com/desanker/malawi/tree/7f71f0680f776acd1987b79ba99fd3b96646c740)
 on May 13, 2020.
 </em></small>
 
@@ -161,6 +161,21 @@ To continue the assessments underpinning the formulation of adaptation plans in 
 
 
 This chapter will contain a summary of the NAP containing the key priorities to be communicated.
+
+
+xxxx
+
+
+xxxx
+
+
+xxx
+
+
+xxx
+
+
+xxxx
 
 
 ## Main references for the Malawi Open NAP
