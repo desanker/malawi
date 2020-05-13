@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/c0339b7d5d3db76a6d4b9ad319a4d16bc19d95e6/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/c0339b7d5d3db76a6d4b9ad319a4d16bc19d95e6/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/c0339b7d5d3db76a6d4b9ad319a4d16bc19d95e6/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/c0339b7d5d3db76a6d4b9ad319a4d16bc19d95e6/))
+([permalink](https://desanker.github.io/malawi/v/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2/))
 was automatically generated
-from [desanker/malawi@c0339b7](https://github.com/desanker/malawi/tree/c0339b7d5d3db76a6d4b9ad319a4d16bc19d95e6)
+from [desanker/malawi@8d58f57](https://github.com/desanker/malawi/tree/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2)
 on May 13, 2020.
 </em></small>
 
@@ -158,64 +158,6 @@ The NAP also presents a set of adaptation goals, objectives and targets, along w
 
 To continue the assessments underpinning the formulation of adaptation plans in the country, Malawi has recently accessed the GCF Readiness Support Programme to further advance the NAP process. Outputs form this project, when ready. will be integrated into updates and revisions of the NAP.
 
-
-
-## Annexes
-
-### Database to support adaptation monitoring and planning
-
-### Database of projects under the FM entities
-
-### INDC Adaptation priorities from INDC (2015)
-
-| Sectors | Intended policy-based actions|
-| --- | --- |
-|Agriculture | Increase irrigation at smallholder level
-|      |Increase land under irrigation through Greenbelt initiative from 20,000 to 40,0000 ha |
-|      | Expanded programme of Greenbelt initiative from 40,000 ha to 100000 ha by 2030 |
-|      |Build adaptation capacity in climate resilient agronomic practices for smallholder farmers|
-|      | Promote on-farm water conservation technologies |
-|     |Support an expanded programme of constructing multipurpose dams for irrigation and aquaculture |
-|     |Develop financial mechanisms to support crop insurance targeting smallholder farmers |
-|     |Promote the growing of drought tolerant crop varieties |
-|      |Implement conservation agriculture and agroforestry practices |
-|     |Promote improved land use practices |
-|Water | Implement integrated catchment conservation and management programme |
-|     |Promote water harvesting technologies at all levels |
-|     |Support an expanded programme of constructing multipurpose dams to enhance water storage| 
-|     |Support the revision of water related policies and strategies (inc. water SWAP) |
-|     |Develop and enhance climate information and early warning systems |
-|Human health | Build capacity to diagnose, prevent and control climate-sensitive diseases such as malaria, diarrhea and malnutrition |
-|    |Enhance public awareness about water, sanitation and hygiene practices and enhance health surveillance |
-|    |Support expanded programme for preventing and controlling climate-sensitive diseases |
-|    |Construct more health centres in order to improve access to health facilities within a walking a distance of 8 km |
-|     |Support the establishment of centre of excellence for research and disease control targeting climate-sensitive diseases|
-| Energy | Promote use of biomass briquettes as substitute for firewood and charcoal |
-|     |Promote an energy mix that moves people away from use of biomass |
-|     |Support an expanded programme of briquette production and use |
-|     |Construct storage dams for hydropower generation |
-|     |Promote solar PV and use of the energy efficient bulbs |
-|     |Promote use of bio-fuels for lighting and cooking replacing fossil-based fuel |
-|Forestry | Support research in drought tolerant and fast-growing tree species |
-|      | Expand afforestation and forest regeneration programmes |
-|    | Promote growing of drought to tolerant and fast-growing tree species |
-|   |Support research in drought tolerant and fast-growing tree species |
-|Wildlife|Provide watering points at strategic locations of national park/game reserve |
-|     |Implement diseases control programmes |
-|     |Support capacity building in a wildlife institution to lead in adaptation initiatives e.g. translocation and culling |
-|Fisheries | Capacity building in aquaculture and cage culture fish farming practices |
-|     |Adopt ecosystem services approach in the management of fisheries resources |
-|     |Promote aquaculture and cage culture fish farming practices |
-|     |Protect fish spawning/breeding sites |
-|     |Maintain fingerlings for stocking lakes and rivers after severe drought episodes |
-|Gender (and vulnerable groups) | Promote gender mainstreaming in policies, programmes and projects |
-|     |Support capacity building programmes for vulnerable groups |
-|Infrastructure | Construct infrastructure for flood control, transport etc. |
-|     |Develop and implement climate related building codes/standards |
-|     |Revise existing building standards in line with climate change |
-|Industry | Promote research in industrial technologies |
-
- 
 
 
 ## Main references for the Malawi Open NAP
