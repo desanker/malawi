@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/472af3560e600f5ef65d1ba39c4a37386af1cf7b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/472af3560e600f5ef65d1ba39c4a37386af1cf7b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/472af3560e600f5ef65d1ba39c4a37386af1cf7b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2/))
+([permalink](https://desanker.github.io/malawi/v/472af3560e600f5ef65d1ba39c4a37386af1cf7b/))
 was automatically generated
-from [desanker/malawi@8d58f57](https://github.com/desanker/malawi/tree/8d58f57ce96cf87d3ee938a4be8b35cc1a0695c2)
+from [desanker/malawi@472af35](https://github.com/desanker/malawi/tree/472af3560e600f5ef65d1ba39c4a37386af1cf7b)
 on May 13, 2020.
 </em></small>
 
@@ -158,6 +158,9 @@ The NAP also presents a set of adaptation goals, objectives and targets, along w
 
 To continue the assessments underpinning the formulation of adaptation plans in the country, Malawi has recently accessed the GCF Readiness Support Programme to further advance the NAP process. Outputs form this project, when ready. will be integrated into updates and revisions of the NAP.
 
+
+
+This chapter will contain a summary of the NAP containing the key priorities to be communicated.
 
 
 ## Main references for the Malawi Open NAP
