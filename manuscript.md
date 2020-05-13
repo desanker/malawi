@@ -4,7 +4,7 @@ author-meta:
 - LDC Expert Group
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-02'
+date-meta: '2020-05-13'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Malawi Open NAP" />
 
-  <meta name="dc.date" content="2020-05-02" />
+  <meta name="dc.date" content="2020-05-13" />
 
-  <meta name="citation_publication_date" content="2020-05-02" />
+  <meta name="citation_publication_date" content="2020-05-13" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/malawi/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/9c34d30305e61ec0c101575a0f9e48fe84e83625/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/malawi/v/e4e00514cc5911c9fa550fee221e0dff58997e6b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/9c34d30305e61ec0c101575a0f9e48fe84e83625/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/malawi/v/e4e00514cc5911c9fa550fee221e0dff58997e6b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/9c34d30305e61ec0c101575a0f9e48fe84e83625/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/malawi/v/e4e00514cc5911c9fa550fee221e0dff58997e6b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Malawi Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/malawi/v/9c34d30305e61ec0c101575a0f9e48fe84e83625/))
+([permalink](https://desanker.github.io/malawi/v/e4e00514cc5911c9fa550fee221e0dff58997e6b/))
 was automatically generated
-from [desanker/malawi@9c34d30](https://github.com/desanker/malawi/tree/9c34d30305e61ec0c101575a0f9e48fe84e83625)
-on May 2, 2020.
+from [desanker/malawi@e4e0051](https://github.com/desanker/malawi/tree/e4e00514cc5911c9fa550fee221e0dff58997e6b)
+on May 13, 2020.
 </em></small>
 
 ## Authors
